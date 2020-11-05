@@ -23,7 +23,7 @@ English template follows Japanese.
 
 ## 4. 結果
 
-## 5.  論文，コード等へのリンク
+## 5. 論文，コード等へのリンク
 
 ## 6. 感想，コメント
 

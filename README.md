@@ -35,7 +35,24 @@ English template follows Japanese.
 
 
 ## English
+It isn't necessary to write all sections, but at least try to write section 1.5.7.
+
+If you just want to submit a paper you are interested in (and have @sgnoya summarize for you), you can create an issue and leave it blank.
 
 ```
+## 1. Overview (basic ideas)
 
+## 2. Novelty
+
+## 3. Method (Technical details)
+
+## 4. Results
+
+## 5. links to papers, codes, etc.
+
+## 6. Thoughts, Comments
+
+## 7. bibtex
+
+## 8. Related Papers
 ```
